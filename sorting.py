@@ -3,6 +3,7 @@ from tkinter import ttk
 import random
 from BubbleSort import bubble_sort
 
+#main file initializing the gui and the sorting algorithm
 root = Tk()
 root.title('Sorting Visualization by Nicholas')
 root.maxsize(900, 600)
